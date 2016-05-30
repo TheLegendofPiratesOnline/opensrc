@@ -1,2 +1,2 @@
-# opensrc
-Open source code to share with the community.
+# Pirates Online: opensrc
+Open source code for collaborative development and team building.
