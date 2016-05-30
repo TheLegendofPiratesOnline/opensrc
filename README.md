@@ -1,2 +1,2 @@
 # opensrc
-Open source TLOPO code to share with the community
+This is not an actual Open Source repo.
